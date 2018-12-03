@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2017.3.4\bin\cmake\bin\cmake.exe" -E remo
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2"
+CMAKE_SOURCE_DIR = "C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ex2.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/ex2.dir/flags.make
 
 CMakeFiles/ex2.dir/main.cpp.obj: CMakeFiles/ex2.dir/flags.make
 CMakeFiles/ex2.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ex2.dir/main.cpp.obj"
-	C:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ex2.dir\main.cpp.obj -c "C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ex2.dir/main.cpp.obj"
+	C:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ex2.dir\main.cpp.obj -c "C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2\main.cpp"
 
 CMakeFiles/ex2.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ex2.dir/main.cpp.i"
-	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2\main.cpp" > CMakeFiles\ex2.dir\main.cpp.i
+	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2\main.cpp" > CMakeFiles\ex2.dir\main.cpp.i
 
 CMakeFiles/ex2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ex2.dir/main.cpp.s"
-	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2\main.cpp" -o CMakeFiles\ex2.dir\main.cpp.s
+	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2\main.cpp" -o CMakeFiles\ex2.dir\main.cpp.s
 
 CMakeFiles/ex2.dir/main.cpp.obj.requires:
 
@@ -82,16 +82,16 @@ CMakeFiles/ex2.dir/main.cpp.obj.provides.build: CMakeFiles/ex2.dir/main.cpp.obj
 
 CMakeFiles/ex2.dir/map_tree.cpp.obj: CMakeFiles/ex2.dir/flags.make
 CMakeFiles/ex2.dir/map_tree.cpp.obj: ../map_tree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ex2.dir/map_tree.cpp.obj"
-	C:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ex2.dir\map_tree.cpp.obj -c "C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2\map_tree.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ex2.dir/map_tree.cpp.obj"
+	C:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ex2.dir\map_tree.cpp.obj -c "C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2\map_tree.cpp"
 
 CMakeFiles/ex2.dir/map_tree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ex2.dir/map_tree.cpp.i"
-	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2\map_tree.cpp" > CMakeFiles\ex2.dir\map_tree.cpp.i
+	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2\map_tree.cpp" > CMakeFiles\ex2.dir\map_tree.cpp.i
 
 CMakeFiles/ex2.dir/map_tree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ex2.dir/map_tree.cpp.s"
-	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2\map_tree.cpp" -o CMakeFiles\ex2.dir\map_tree.cpp.s
+	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2\map_tree.cpp" -o CMakeFiles\ex2.dir\map_tree.cpp.s
 
 CMakeFiles/ex2.dir/map_tree.cpp.obj.requires:
 
@@ -118,7 +118,7 @@ ex2.exe: CMakeFiles/ex2.dir/build.make
 ex2.exe: CMakeFiles/ex2.dir/linklibs.rsp
 ex2.exe: CMakeFiles/ex2.dir/objects1.rsp
 ex2.exe: CMakeFiles/ex2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ex2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ex2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ex2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -136,6 +136,6 @@ CMakeFiles/ex2.dir/clean:
 .PHONY : CMakeFiles/ex2.dir/clean
 
 CMakeFiles/ex2.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2" "C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2" "C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2\cmake-build-debug" "C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2\cmake-build-debug" "C:\Users\nadav\Desktop\Technion\Data Structure\HW\ex2\cmake-build-debug\CMakeFiles\ex2.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2" "C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2" "C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2\cmake-build-debug" "C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2\cmake-build-debug" "C:\Users\ronien\CLionProjects\Data Structure\DS WET 1\ex2\cmake-build-debug\CMakeFiles\ex2.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/ex2.dir/depend
 

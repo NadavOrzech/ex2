@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/nadav/Desktop/Technion/Data Structure/HW/ex2/main.cpp" "C:/Users/nadav/Desktop/Technion/Data Structure/HW/ex2/cmake-build-debug/CMakeFiles/ex2.dir/main.cpp.obj"
-  "C:/Users/nadav/Desktop/Technion/Data Structure/HW/ex2/map_tree.cpp" "C:/Users/nadav/Desktop/Technion/Data Structure/HW/ex2/cmake-build-debug/CMakeFiles/ex2.dir/map_tree.cpp.obj"
+  "C:/Users/ronien/CLionProjects/Data Structure/DS WET 1/ex2/main.cpp" "C:/Users/ronien/CLionProjects/Data Structure/DS WET 1/ex2/cmake-build-debug/CMakeFiles/ex2.dir/main.cpp.obj"
+  "C:/Users/ronien/CLionProjects/Data Structure/DS WET 1/ex2/map_tree.cpp" "C:/Users/ronien/CLionProjects/Data Structure/DS WET 1/ex2/cmake-build-debug/CMakeFiles/ex2.dir/map_tree.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

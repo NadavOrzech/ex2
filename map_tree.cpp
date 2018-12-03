@@ -50,7 +50,7 @@ StatusType Delete(void *DS, int key){
         return FAILURE;
     }
 
-    //    need to add the line that calls to remove_node. not implimented yet
+    ((Map_tree<int,void*>*)DS)->remove_node(result);
     return SUCCESS;
 }
 
@@ -59,7 +59,7 @@ StatusType DeleteByPointer(void *DS, void* p){
         return  INVALID_INPUT;
     }
 
-    //    need to add the line that calls to remove_node. not implimented yet
+    ((Map_tree<int,void*>*)DS)->remove_node((Node<int,void*>*)p);
     return SUCCESS;
 
 }
