@@ -1,0 +1,3 @@
+C:/Users/nadav/Desktop/Technion/Data Structure/HW/ex2/cmake-build-debug/CMakeFiles/ex2.dir
+C:/Users/nadav/Desktop/Technion/Data Structure/HW/ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nadav/Desktop/Technion/Data Structure/HW/ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
